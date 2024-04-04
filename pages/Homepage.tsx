@@ -27,7 +27,7 @@ const Homepage = () => {
             </h1>
 
             <p className=" text-base font-semibold pt-10 leading-[21.94px] text-left">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Commodo,
+              ipsum dolor sit amet, consectetur adipiscing elit. Commodo,
               sed proin amet a vestibulum enim volutpat lacus. Volutpat arcu sit
               sed tortor etiam volutpat ipsum.{" "}
             </p>
